@@ -10,3 +10,10 @@
 
 - [Get Out](https://chriswestwood.github.io/Get-Out) - Discover the way through in the time limit. Platform puzzler developed for [Honest Jam 2](https://itch.io/jam/honest-jam-2)
 
+
+
+## Contact
+
+If you would like to get in touch:
+
+Email - chrisdwestwood@gmail.com
